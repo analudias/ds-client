@@ -1,0 +1,10 @@
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Bernardo Heitor', '131.778.253-43', 2500, TIMESTAMP WITHOUT TIME ZONE '2020-12-03T20:59:19Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Isabella Cláudia', '280.155.235-67', 7000, TIMESTAMP WITHOUT TIME ZONE '1993-04-24T20:59:19Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Antonella Milena', '243.724.408-55', 1100, TIMESTAMP WITHOUT TIME ZONE '2002-04-19T20:59:19Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Isabella Josefa', '997.984.742-52', 3500, TIMESTAMP WITHOUT TIME ZONE '1983-10-26T20:59:19Z', 3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Gabrielly Natália', '823.657.711-22', 15000, TIMESTAMP WITHOUT TIME ZONE '1970-03-19T20:59:19Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Priscila Daniela', '914.071.599-09', 800, TIMESTAMP WITHOUT TIME ZONE '1998-09-03T20:59:19Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Anthony Alexandre', '896.160.092-30', 5300, TIMESTAMP WITHOUT TIME ZONE '1970-03-16T20:59:19Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Daiane Isabella', '582.999.292-29', 32000, TIMESTAMP WITHOUT TIME ZONE '1967-01-26T20:59:19Z', 3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Danilo Nicolas', '029.840.208-47', 3700, TIMESTAMP WITHOUT TIME ZONE '1977-07-07T20:59:19Z', 4);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Daniel Hugo', '515.102.605-44', 550, TIMESTAMP WITHOUT TIME ZONE '2005-12-19T20:59:19Z', 0);
